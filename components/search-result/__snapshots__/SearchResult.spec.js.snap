@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchResult snapshot render amount and divider 1`] = `ShallowWrapper {}`;
+
+exports[`SearchResult snapshot take snapshot 1`] = `ShallowWrapper {}`;

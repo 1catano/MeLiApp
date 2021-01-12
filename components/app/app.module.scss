@@ -1,0 +1,14 @@
+@import "../../styles/variables.scss";
+
+.ml-app {
+    &__main {
+        background-color: #{$gallery};
+        width: 100%;
+        padding-bottom: 64px;
+        
+        &--full-height {
+            height: 100vh;
+        }
+    }
+}
+

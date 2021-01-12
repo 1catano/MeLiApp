@@ -1,0 +1,10 @@
+.ml-search-result {
+    &__main {
+        background-color: white;
+        border-radius: 4px;
+        height: calc(100vh - 200px);
+        overflow: auto;
+        padding: 16px;
+        width: 100%;
+    };
+}
